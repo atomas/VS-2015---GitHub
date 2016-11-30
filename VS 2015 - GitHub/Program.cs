@@ -11,7 +11,8 @@ namespace VS_2015___GitHub
         static void Main(string[] args)
         {
             //First commit
-            int a = 0;
+            //malo diram tuđi kod
+            int b = 0;
         }
     }
 }
