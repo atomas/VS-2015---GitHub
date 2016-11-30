@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace VS_2015___GitHub
 {
-    class NovaKlasa
+    class NovaKlasa2
     {
-        //TODO klasu
+        //TODO klasa 2
     }
 }
