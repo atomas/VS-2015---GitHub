@@ -15,6 +15,8 @@ namespace VS_2015___GitHub
             int b = 0;
 
             int c = 6;
+
+            int a = 4;
         }
     }
 }
