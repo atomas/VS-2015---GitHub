@@ -13,6 +13,8 @@ namespace VS_2015___GitHub
             //First commit
             //malo diram tuđi kod
             int b = 0;
+
+            int c = 6;
         }
     }
 }
