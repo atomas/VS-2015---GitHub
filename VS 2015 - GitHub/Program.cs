@@ -14,6 +14,8 @@ namespace VS_2015___GitHub
             //malo diram tuđi kod
             int b = 0;
 
+            int a = 4;
+
             int c = 8;
         }
     }
