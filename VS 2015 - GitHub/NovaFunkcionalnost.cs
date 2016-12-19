@@ -8,5 +8,12 @@ namespace VS_2015___GitHub
 {
     class NovaFunkcionalnost
     {
+
+        /*
+        TODO: SOME CODE
+        */
+
+        public void metoda() {
+        }
     }
 }
